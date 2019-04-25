@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feature_base/feature_base.iml" filepath="$PROJECT_DIR$/feature_base/feature_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feature_base2/feature_base2.iml" filepath="$PROJECT_DIR$/feature_base2/feature_base2.iml" />
       <module fileurl="file://$PROJECT_DIR$/plustraining-android.iml" filepath="$PROJECT_DIR$/plustraining-android.iml" />
     </modules>
   </component>
