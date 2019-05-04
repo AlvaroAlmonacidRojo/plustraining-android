@@ -1,1 +1,1 @@
-include ':app', ':feature_base', ':feature_base2'
+include ':app', ':feature_base', ':feature_register'

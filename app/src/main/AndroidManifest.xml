@@ -10,7 +10,7 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
         <activity
-                android:name=".SplashActivity"
+                android:name=".presentation.SplashScreenActivity"
                 android:label="@string/title_activity_splash"
                 android:theme="@style/AppTheme.NoActionBar">
             <intent-filter >
