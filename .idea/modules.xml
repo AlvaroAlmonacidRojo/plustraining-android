@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/buildSrc.iml" />
       <module fileurl="file://$PROJECT_DIR$/feature_base/feature_base.iml" filepath="$PROJECT_DIR$/feature_base/feature_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/feature_register/feature_register.iml" filepath="$PROJECT_DIR$/feature_register/feature_register.iml" />
       <module fileurl="file://$PROJECT_DIR$/plustraining-android.iml" filepath="$PROJECT_DIR$/plustraining-android.iml" />
